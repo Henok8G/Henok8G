@@ -36,22 +36,22 @@ setInterval(() => {
 <div align="center">
 
 #### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-00FFFF?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-F4BA0B?style=for-the-badge&logo=next.js&logoColor=00FFFF)
-![Angular](https://img.shields.io/badge/-Angular-3CF527?style=for-the-badge&logo=angular&logoColor=DD0031)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-5B27F5?style=for-the-badge&logo=tailwindcss&logoColor=000)
+![React](https://img.shields.io/badge/-React-86BBF0?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-86F0C4?style=for-the-badge&logo=next.js&logoColor=00FFFF)
+![Angular](https://img.shields.io/badge/-Angular-D986F0?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-F08686?style=for-the-badge&logo=tailwindcss&logoColor=000)
 
 #### 🧠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FFFF)
-![Express.js](https://img.shields.io/badge/-Express.js-00FFFF?style=for-the-badge&logo=express&logoColor=000)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
-![Python](https://img.shields.io/badge/-Python-00FFFF?style=for-the-badge&logo=python&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-86F0C4?style=for-the-badge&logo=node.js&logoColor=00FFFF)
+![Express.js](https://img.shields.io/badge/-Express.js-86BBF0?style=for-the-badge&logo=express&logoColor=000)
+![MongoDB](https://img.shields.io/badge/-MongoDB-D986F0?style=for-the-badge&logo=mongodb&logoColor=00FFFF)
+![Python](https://img.shields.io/badge/-Python-F08686?style=for-the-badge&logo=python&logoColor=000)
 
 #### 🧰 Tools & Design
-![VS Code](https://img.shields.io/badge/-VS%20Code-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
-![Git](https://img.shields.io/badge/-Git-00FFFF?style=for-the-badge&logo=git&logoColor=000)
-![Figma](https://img.shields.io/badge/-Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=00FFFF)
-![Postman](https://img.shields.io/badge/-Postman-00FFFF?style=for-the-badge&logo=postman&logoColor=000)
+![VS Code](https://img.shields.io/badge/-VS%20Code-D986F0?style=for-the-badge&logo=visualstudiocode&logoColor=00FFFF)
+![Git](https://img.shields.io/badge/-Git-86F0C4?style=for-the-badge&logo=git&logoColor=000)
+![Figma](https://img.shields.io/badge/-Figma-F08686?style=for-the-badge&logo=figma&logoColor=00FFFF)
+![Postman](https://img.shields.io/badge/-Postman-86BBF0?style=for-the-badge&logo=postman&logoColor=000)
 
 </div>
 
@@ -60,8 +60,8 @@ setInterval(() => {
 ### ⚡ GitHub Stats & Activity
 <div align="center">
 
-![Henok's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenokGetachew&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0A0A0A)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenokGetachew&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0A0A0A)
+![Henok's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenokGetachew&show_icons=true&theme=radical&title_color=86BBF0&icon_color=00FFFF&text_color=FFFFFF&bg_color=0A0A0A)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenokGetachew&layout=compact&theme=radical&title_color=D986F0&text_color=FFFFFF&bg_color=0A0A0A)
 
 </div>
 
