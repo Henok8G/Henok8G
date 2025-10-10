@@ -1,19 +1,9 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;font-family:consolas;id="daynamic-text"">Henok Getachew</span></h1>
+<h1 align="center">👋 Hey there, I'm<span id="dynamic-text" style="color:#00FFFF;font-family:consolas;">Henok Getachew</span>
+Henok Getachew</span></h1>
 
-<script>
-const titles = [
-  "Full Stack Developer",
-  "Web Dev Enthusiast",
-  "Python Automation Architect",
-  "Crafting Futuristic Interfaces"
-];
-let i = 0;
-setInterval(() => {
-  document.getElementById("dynamic-text").innerText = titles[i];
-  i = (i + 1) % titles.length;
-}, 2500);
-</script>
-
+<p align="center">
+  <img src="https://your-gif-link.gif" alt="Dynamic Titles" width="600"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/henokgetachew/henokgetachew/assets/terminal-glitch-banner.gif" alt="Terminal Glitch Intro" width="700"/>
