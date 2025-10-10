@@ -1,5 +1,10 @@
 <!-- Futuristic GitHub README by ChatGPT x Henok Getachew -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Henok Getachew</span></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+Web+Dev+Enthusiast;Python+Automation+%26+Next.js+Explorer;Crafting+Futuristic+Web+Interfaces;Turning+Logic+Into+Digital+Art" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Full Stack Developer | Web Dev Enthusiast | Digital Craftsman ⚡</h3>
 
 ---
