@@ -88,6 +88,6 @@ Henok Getachew</span></h1>
 
 ### ✨ Final Touch
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Web+Dev+Enthusiast;Building+Futuristic+Web+Systems;Turning+Ideas+Into+Interfaces" alt="Professional Dev Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&duration=2500&pause=700&color=D6CBCB&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Web+Dev+Enthusiast;Building+Futuristic+Web+Systems;Turning+Ideas+Into+Interfaces" alt="Professional Dev Animation" />
 </p>
 
