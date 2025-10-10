@@ -1,9 +1,4 @@
-<!-- Futuristic GitHub README by ChatGPT x Henok Getachew -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Henok Getachew</span></h1>
-
-<h1 align="center" style="color:#00FFFF;font-family:Consolas;">
-  <span id="dynamic-text">Full Stack Developer</span>
-</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;font-family:consolas;id="daynamic-text"">Henok Getachew</span></h1>
 
 <script>
 const titles = [
