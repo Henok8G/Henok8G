@@ -37,9 +37,9 @@ setInterval(() => {
 
 #### 🎨 Frontend
 ![React](https://img.shields.io/badge/-React-00FFFF?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-0A0A0A?style=for-the-badge&logo=next.js&logoColor=00FFFF)
-![Angular](https://img.shields.io/badge/-Angular-0A0A0A?style=for-the-badge&logo=angular&logoColor=DD0031)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-00FFFF?style=for-the-badge&logo=tailwindcss&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-F4BA0B?style=for-the-badge&logo=next.js&logoColor=00FFFF)
+![Angular](https://img.shields.io/badge/-Angular-3CF527?style=for-the-badge&logo=angular&logoColor=DD0031)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-5B27F5?style=for-the-badge&logo=tailwindcss&logoColor=000)
 
 #### 🧠 Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-0A0A0A?style=for-the-badge&logo=node.js&logoColor=00FFFF)
