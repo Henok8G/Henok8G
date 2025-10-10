@@ -80,7 +80,7 @@ Henok Getachew</span></h1>
 ### 🛸 Visitor Counter
 <div align="center">
   
-![Visitors](https://komarev.com/ghpvc/?username=HenokGetachew&color=00FFFF&style=for-the-badge&label=VISITORS)
+![Visitors](https://komarev.com/ghpvc/?username=HenokGetachew&color=D6CBCB&style=for-the-badge&label=VISITORS)
 
 </div>
 
