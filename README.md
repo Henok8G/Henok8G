@@ -1,9 +1,29 @@
 <!-- Futuristic GitHub README by ChatGPT x Henok Getachew -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF;">Henok Getachew</span></h1>
 
+<h1 align="center" style="color:#00FFFF;font-family:Consolas;">
+  <span id="dynamic-text">Full Stack Developer</span>
+</h1>
+
+<script>
+const titles = [
+  "Full Stack Developer",
+  "Web Dev Enthusiast",
+  "Python Automation Architect",
+  "Crafting Futuristic Interfaces"
+];
+let i = 0;
+setInterval(() => {
+  document.getElementById("dynamic-text").innerText = titles[i];
+  i = (i + 1) % titles.length;
+}, 2500);
+</script>
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer+%7C+Web+Dev+Enthusiast;Python+Automation+%26+Next.js+Explorer;Crafting+Futuristic+Web+Interfaces;Turning+Logic+Into+Digital+Art" alt="Typing SVG" />
+  <img src="https://github.com/henokgetachew/henokgetachew/assets/terminal-glitch-banner.gif" alt="Terminal Glitch Intro" width="700"/>
 </p>
+
 
 <h3 align="center">Full Stack Developer | Web Dev Enthusiast | Digital Craftsman ⚡</h3>
 
@@ -86,5 +106,6 @@
 
 ### ✨ Final Touch
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Building+futuristic+web+systems...;Designing+the+next+digital+wave...;Coding+creativity+into+reality...;Henok+Getachew+💡" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&duration=2500&pause=700&color=00FFFF&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Web+Dev+Enthusiast;Building+Futuristic+Web+Systems;Turning+Ideas+Into+Interfaces" alt="Professional Dev Animation" />
 </p>
+
