@@ -2,12 +2,9 @@
 Henok Getachew</span></h1>
 
 <p align="center">
-  <img src="https://your-gif-link.gif" alt="Dynamic Titles" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=2500&pause=700&color=86F0A4&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Web+Dev+Enthusiast;Digital+Craftsman;MERN+%2B+Angular;Python+Automation+Explorer" alt="Full Stack Dev Animated Text" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/henokgetachew/henokgetachew/assets/terminal-glitch-banner.gif" alt="Terminal Glitch Intro" width="700"/>
-</p>
 
 
 <h3 align="center">Full Stack Developer | Web Dev Enthusiast | Digital Craftsman ⚡</h3>
