@@ -55,7 +55,7 @@ Henok Getachew</span></h1>
 ---
 
 ### 🚀 Featured Projects
-- [Portfolio Website](https://henokgprotfolio.netlify.app/) — My digital home showcasing my design & dev fusion  
+- [Portfolio Website](https://henok-portfolio-nine.vercel.app/) — My digital home showcasing my design & dev fusion  
 - [Next.js Automation Tool](#) — Python meets Next.js for automation power  
 - [Creative UI Components](#) — A futuristic component library built with React & Tailwind  
 
