@@ -70,7 +70,7 @@ Henok Getachew</span></h1>
 <div align="center">
   
 📧 **Email:** [henryman143143@gmail.com](mailto:henryman143143@gmail.com)  
-🌐 **Portfolio:** [henokgprotfolio.netlify.app](https://henok-portfolio-nine.vercel.app/)  
+🌐 **Portfolio:** [henok protfolio](https://henok-portfolio-nine.vercel.app/)  
 💬 *Open for collaborations, freelance projects, remote work and part-time job.*
 
 </div>
