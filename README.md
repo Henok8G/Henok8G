@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm<span id="dynamic-text" style="color:#00FFFF;font-family:consolas;">Henok Getachew</span></h1>
+<h1 align="center">👋 Hey there, I'm <span id="dynamic-text" style="color:#00FFFF;font-family:consolas;">Henok Getachew</span></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=28&duration=2500&pause=700&color=86F0A4&center=true&vCenter=true&width=600&height=50&lines=Full+Stack+Developer;Web+Dev+Enthusiast;Digital+Craftsman;MERN+%2B+Angular;Python+Automation+Explorer" alt="Full Stack Dev Animated Text" />
